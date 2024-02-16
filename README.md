@@ -34,3 +34,4 @@ condition: How good the condition is (Overall). 1 indicates worn-out property an
 - sql_questions_regression: SQL file with queries to answer business questions
 - House Prices - Conclusions: Word document with each activity conclusions
 - Tableau Dashboard - https://public.tableau.com/views/MidProject_17078575372160/Dashboard?:language=pt-BR&publish=yes&:sid=&:display_count=n&:origin=viz_share_link
+- Presentation - https://slides.com/mafaldasousa-1/minimal
